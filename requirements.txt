@@ -1,0 +1,9 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+pandas 
+numpy 
+scikit-learn
+pikepdf
+msoffcrypto-tool
